@@ -3,8 +3,8 @@ class Mashell < Formula
 
   desc "AI-powered command line assistant"
   homepage "https://github.com/jacobjiangwei/MaShell"
-  url "https://github.com/jacobjiangwei/MaShell/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "860b019b29321508fd54fca2551058af635ef81d5a2dc8b023d2bb7c78d67d63"
+  url "https://github.com/jacobjiangwei/MaShell/archive/refs/tags/v1.0.6.tar.gz"
+  sha256 "b12991c911a9f24fca279d50b838233ae9f966062a7e85ef608ba189e69c9b3a"
   license "GPL-3.0"
 
   depends_on "python@3.11"
